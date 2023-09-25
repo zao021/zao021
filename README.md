@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @zao021
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-zao021/zao021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-#EXTM3U
-#EXTINF:-1 tvg-id=”” group-title=”impurus” tvg-logo=”" , enrolados
-https://bitcoinblockchain.cf/d/MP4/RedeCanais/RedeCanais/RCFServer2/ondemand/ENRLDS.mp4?mu3zAQc9HC3GbwJq=Se6KH-t-9vZnYzuQ8-b6fQ&3U1G7qaTxrPbalZnEx=167982098
+#EXTM3U 
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="BRASIL", amor 
+https://download.vg/V/RCFServer5/ondemand/SMDONCRCAO.mp4?nu3zAQc9HC3GbwJq=1695640276-IIa1T%2FMriBY21M1Gy%2F7fRWtYZdpSam9iAKPJ%2BNZOL8k%3D
